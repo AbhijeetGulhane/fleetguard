@@ -12,3 +12,7 @@ Pre-design. The design doc (`docs/design.md`) comes first; no code until it is w
 ## Development
 
 Built with AI assistance (Claude). I can explain and modify every part of it.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
