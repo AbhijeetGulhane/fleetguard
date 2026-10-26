@@ -1,5 +1,7 @@
 # fleetguard
 
+[![ci](https://github.com/AbhijeetGulhane/fleetguard/actions/workflows/ci.yml/badge.svg)](https://github.com/AbhijeetGulhane/fleetguard/actions/workflows/ci.yml)
+
 A Linux node agent and a safe-rollout controller, written in Go.
 
 - **Agent**: reads host signals from `/proc` and PSI (`/proc/pressure/*`) and exposes CPU, memory, disk, network saturation and error metrics in Prometheus format.
